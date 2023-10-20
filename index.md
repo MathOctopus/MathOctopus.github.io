@@ -21,7 +21,7 @@ This work pioneers exploring and building powerful Multilingual Math Reasoning (
     <strong>MathOctopus</strong>, our effective Multilingual Math Reasoning LLMs, training with different strategies, which notably outperform conventional open-source LLMs and exhibit superiority over ChatGPT in few-shot scenarios.</p>
 
 
-![xmath](/XMATH_MODEL_00.jpg)
+![xmath](/XMATH_MODEL_00.png)
 ## **MGSM8KInstruct**
 
 | Training Dataset      | En      | Sw      | Zh      | Bn      | De      | Es      | Fr      | Ja      | Ru      | Th      | Overall |
