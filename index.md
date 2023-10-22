@@ -113,11 +113,7 @@ This work pioneers exploring and building powerful Multilingual Math Reasoning (
 
 <div style="display: flex; justify-content: center;">
   <p style="color: black; text-align:justify; text-justify:inter-ideograph; max-width: 700px;">
-  Above figure separately illustrates the test results of several models in their respective training languages. We ob-
-  serve that our model still surpasses the results of the monolingual SFT models in their native
-  training languages. This suggests that, at least in the task of math reasoning, multilingual
-  SFT can be considered a superior training strategy to monolingual SFT, effortlessly
-  elevating the model’s performance in its native language.
+  Above figure separately illustrates the test results of several models in their respective training languages. We observe that our model still surpasses the results of the monolingual SFT models in their native training languages. This suggests that, at least in the task of math reasoning, multilingual SFT can be considered a superior training strategy to monolingual SFT, effortlessly elevating the model’s performance in its native language.
   </p>
 </div>
 
